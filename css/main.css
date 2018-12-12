@@ -101,17 +101,39 @@ textarea {
 .double{
     width: 100%;
     max-width: 100%;
+    margin-bottom: 2rem;
 }
 
 body{
     font-family: 'Roboto', sans-serif;
+    background: #eee;
+}
+
+.center-text{
+    padding-left: 20%;
+    margin-top: 4%;
 }
 
 
 
+.nav a{
+    color: #222;
+}
 
 
 
+.quote{
+    text-align: center;
+    margin: 3rem;
+    font-size: 24px;
+    letter-spacing: 2px;
+    font-variant: all-small-caps;
+}
+
+
+.full-width{
+    padding:0;
+}
 
 
 
